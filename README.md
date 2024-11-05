@@ -1,1 +1,3 @@
 # Tugas-Individu
+
+INI ADALAH EDIT DARI SERVER LOCAL
